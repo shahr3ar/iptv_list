@@ -81,8 +81,6 @@ https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1,GAZI TV
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1,Colors
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1,Nat Geo People
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1,Star Gold
@@ -107,3 +105,5 @@ https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 #EXTINF:-1,STAR WORLD (IN):-
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+#EXTINF:-1,Colors
+http://rb-group-server.com:25461/l1lxA5qLim/vzc9zbuHvj/4789
