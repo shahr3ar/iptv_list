@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Ekattur
 http://10.16.100.203:8082/bangla/ekatoortv.m3u8
+EXTINF:-1, Channel-i
+http://10.16.100.203:8082/bangla/channeli.m3u8
 #EXTINF:-1,disney
 http://10.16.100.202:8080/tvs202/disneyxd.m3u8
 #EXTINF:-1,Animal-Planet
