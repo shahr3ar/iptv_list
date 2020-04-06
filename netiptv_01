@@ -15,5 +15,5 @@ http://10.16.100.203:8082/bangla/MAASRANGATV.m3u8
 http://10.16.100.203:8082/bangla/rtv.m3u8
 #EXTINF:-1,NTV
 http://10.16.100.203:8082/bangla/ntv.m3u8
-#EXTINF:-1,Ekushey
+#EXTINF:-1,Ekushey-tv
 http://10.16.100.203:8082/bangla/ekusheytv.m3u8
