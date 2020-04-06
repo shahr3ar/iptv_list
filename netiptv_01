@@ -31,3 +31,14 @@ http://10.16.100.202:8080/tvs202/ztele.m3u8
 http://10.16.100.202:8080/tvs202/colorsHD.m3u8
 #EXTINF:-1,starmovie
 http://10.16.100.202:8080/tvs202/StarMoviesSelectHD.m3u8
+#EXTINF:-1,animal planet
+http://10.16.100.204:8080/tv204/animalplanet_hd720.m3u8
+#EXTINF:-1,discovery
+http://10.16.100.204:8080/tv204/discovery_hd720.m3u8
+#EXTINF:-1,tlc
+http://10.16.100.204:8080/tv204/tlc_720.m3u8
+#EXTINF:-1,bbcearth
+http://10.16.100.204:8080/tv204/sonybbcearth_hd720.m3u8
+
+
+
