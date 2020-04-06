@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1,Ekattur
 http://10.16.100.203:8082/bangla/ekatoortv.m3u8
-EXTINF:-1, Channel-i
+EXTINF:-1,Channel-i
 http://10.16.100.203:8082/bangla/channeli.m3u8
+EXTINF:-1,Gazi-TV
+http://10.16.100.241/exthls/GAZITV.m3u8
 #EXTINF:-1,ColorsBan
 http://rb-group-server.com:25461/l1lxA5qLim/vzc9zbuHvj/4789
 #EXTINF:-1,MTV INDIA
