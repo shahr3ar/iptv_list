@@ -3,14 +3,6 @@
 http://10.16.100.203:8082/bangla/ekatoortv.m3u8
 EXTINF:-1, Channel-i
 http://10.16.100.203:8082/bangla/channeli.m3u8
-#EXTINF:-1,disney
-http://10.16.100.202:8080/tvs202/disneyxd.m3u8
-#EXTINF:-1,Animal-Planet
-http://10.16.100.204:8080/tv204/animalplanet_hd720.m3u8
-#EXTINF:-1,Discovery
-http://10.16.100.204:8080/tv204/discovery_hd720.m3u8
-#EXTINF:-1,SonyBBCEarth
-http://10.16.100.204:8080/tv204/sonybbcearth_hd720.m3u8
 #EXTINF:-1,ColorsBan
 http://rb-group-server.com:25461/l1lxA5qLim/vzc9zbuHvj/4789
 #EXTINF:-1,MTV INDIA
